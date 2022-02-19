@@ -22,7 +22,7 @@ The Three Cryptocurrencies envisioned to achieve a Proof-of-Concept are as follo
 
 **🔥Firecoin!** is cryptocurrency, intended to be in the form of a Privacy Coin like **Monero**, **ZCash** or **MobileCoin**. It's biggest inspiration comes
 from **Monero**, however unlike **Monero**, and more like **Bitcoin**, there will only be a finite supply of coins possible to mine, and transact with.
-In my true eccentric thinking, I make this finite supply 2.5 times of that of **Bitcoin**, so thus namely, there will only be **52,000,000** *firecoins*
+In my true eccentric thinking, I make this finite supply 2.5 times of that of **Bitcoin**, so thus namely, there will only be **52,500,000** *firecoins*
 available to mine from a network of computer nodes. **🔥Firecoin!** aims to achieve a Proof-Concept I call ***rPoW*** or **Recursive/Ring Proof-of-Work**,
 which is an entirely new mathematical model to electrically improve the effciency of the consensus's hash function. 
 
