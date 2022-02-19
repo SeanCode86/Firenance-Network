@@ -30,7 +30,7 @@ which is an entirely new mathematical model to electrically improve the effcienc
 
 **🔥Firetoken!** is the Social Media Platform's arbitary & liquidity *crypto-memetoken*. *Firetokens!'* are arbitary, and therefore, there is an infinite supply of them.
 It operates as a cryptocurrency, using a 'Progressive' Paradigm of Scrypt Encryption, making *'inhouse-tokens'* to work with the **🔥FireBot! API Platform**.
-These are only exchangable within **➰Firefly!**, using **🔥Firenance! Network.**
+These are only exchangable within **➰Firefly!**, using **🔥Firenance! Network.** They hash when a social content creator gets a "*reaction*" from one or more of their followers. An Aspect which has not been decided yet, is that so many number of *firetokens* will poolswap or transform into one **🔥Firecoin!**, whereby that can be exchangle on other blockchain ecosystems, which allow oracle connections to it.   
 
 ## 3). 🌐FireTON!
 
