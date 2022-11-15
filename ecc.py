@@ -22,7 +22,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 import time  # For asynchronous help for Memory Management
 
-import pyfiglet   # So terminal looks pretty for troubleshooters
+#import pyfiglet   # So terminal looks pretty for troubleshooters
 from colorama import Fore, Back, Style  # For different color for terminal and logger out
 
 # * ========================================================================== * #
@@ -638,12 +638,12 @@ def main():
     print(Fore.MAGENTA +
           "# * $ * ================================================================ * $ * #")
 
-    header_logger = pyfiglet.figlet_format(" ECC secp-256-k1 \n"
+    header_logger = str(" ECC secp-256-k1 \n"
                                            "             Firetest!")
 
-    footer_for_logger = pyfiglet.figlet_format("                   Botcoin!")
+    footer_for_logger = str("                   Botcoin!")
 
-    genesis_header = pyfiglet.figlet_format("    Genesis Block")
+    genesis_header = str("    Genesis Block")
 
     time.sleep(1.5)
 
@@ -675,7 +675,7 @@ def main():
 
     print("")
 
-    pvt_key_verify_test_codex = pyfiglet.figlet_format(
+    pvt_key_verify_test_codex = str(
          f"Success!!"
     )
 
@@ -786,7 +786,7 @@ def main():
     # If a second transaction comes along then public key must chain
     # IE; if indexing is 2 the G + G, aka, our "chain"...
 
-    openLedger_graphic = pyfiglet.figlet_format("                 B l o c k   1 \n")
+    openLedger_graphic = str("                 B l o c k   1 \n")
 
     print("")
 
@@ -818,7 +818,7 @@ def main():
     # Add another to chain
     time.sleep(1.0)
 
-    openLedger_graphic2 = pyfiglet.figlet_format("                 True Genesis Block \n")
+    openLedger_graphic2 = str("                 True Genesis Block \n")
 
     print("")
 
